@@ -1,0 +1,12 @@
+D:\Mphasis\Phase-4\Practise project\TestProjectPizza\PizzaLibrary\bin\Debug\net6.0\PizzaLibrary.deps.json
+D:\Mphasis\Phase-4\Practise project\TestProjectPizza\PizzaLibrary\bin\Debug\net6.0\PizzaLibrary.pdb
+D:\Mphasis\Phase-4\Practise project\TestProjectPizza\PizzaLibrary\obj\Debug\net6.0\PizzaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Phase-4\Practise project\TestProjectPizza\PizzaLibrary\obj\Debug\net6.0\PizzaLibrary.AssemblyInfoInputs.cache
+D:\Mphasis\Phase-4\Practise project\TestProjectPizza\PizzaLibrary\obj\Debug\net6.0\PizzaLibrary.AssemblyInfo.cs
+D:\Mphasis\Phase-4\Practise project\TestProjectPizza\PizzaLibrary\obj\Debug\net6.0\PizzaLibrary.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-4\Practise project\TestProjectPizza\PizzaLibrary\obj\Debug\net6.0\PizzaLibrary.dll
+D:\Mphasis\Phase-4\Practise project\TestProjectPizza\PizzaLibrary\obj\Debug\net6.0\refint\PizzaLibrary.dll
+D:\Mphasis\Phase-4\Practise project\TestProjectPizza\PizzaLibrary\obj\Debug\net6.0\PizzaLibrary.pdb
+D:\Mphasis\Phase-4\Practise project\TestProjectPizza\PizzaLibrary\obj\Debug\net6.0\ref\PizzaLibrary.dll
+D:\Mphasis\Phase-4\Practise project\TestProjectPizza\PizzaLibrary\obj\Debug\net6.0\PizzaLibrary.csproj.AssemblyReference.cache
+D:\Mphasis\Phase-4\Practise project\TestProjectPizza\PizzaLibrary\obj\Debug\net6.0\PizzaLibrary.csproj.CopyComplete
